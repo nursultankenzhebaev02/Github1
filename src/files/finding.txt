@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+    not cool stuff
+    give me water
+    i want money
+i am trying to find a conflict in merge
+code
+bye
+yeah
